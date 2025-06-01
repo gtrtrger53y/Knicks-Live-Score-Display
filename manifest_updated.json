@@ -1,0 +1,15 @@
+{
+  "name": "Knicks Live Score Display Firmware",
+  "version": "1.0.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "firmware_knicks_live_score_updated.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
